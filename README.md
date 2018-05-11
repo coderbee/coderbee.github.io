@@ -1,4 +1,3 @@
-# Example readme 
 [Site inspiration](https://evanwill.github.io/go-go-ghpages/2-basic.html) 
 
 ## Heading two
